@@ -1,2 +1,0 @@
-# html-portfolio
-testing portfolio
